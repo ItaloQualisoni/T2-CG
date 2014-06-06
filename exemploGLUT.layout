@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="ImageClass.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="126" topLine="18" />
+	</File>
+	<File name="ImageClassTest.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1689" topLine="53" />
+	</File>
+	<File name="SOIL/SOIL.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="998" topLine="55" />
+	</File>
+</CodeBlocks_layout_file>
